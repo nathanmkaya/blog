@@ -1,0 +1,60 @@
+baseURL = "http://blog.nathanmkaya.co.ke/"
+languageCode = "en-us"
+title = "Nathan Mkaya's Blog"
+theme = "LeaveIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+
+preserveTaxonomyNames = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[params]
+    since = 2019
+    author = "Nathan.Mkaya"                           # Author's name
+    avatar = "/images/me/profile.jpg"           # Author's avatar
+    subtitle = "Discovery requires experimentation."         # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "" # post or other
+
+    google_verification = ""
+   
+    description = "" # site description
+    keywords = "" # site keywords
+
+    beian = ""
+    baiduAnalytics = ""
+
+    license= '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
+
+
+[params.social]
+    GitHub = "nathanmkaya"
+    Twitter = "nathanmkaya"
+    Email   = "nathanmkaya@gmail.com"
+    Medium = "nathanmkaya"
+    LinkedIn = "nathanmkaya"

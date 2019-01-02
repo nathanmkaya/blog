@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nathan Mkaya&#39;s Blog</title>
+    <link>http://blog.nathanmkaya.co.ke/posts/</link>
+    <description>Recent content in Posts on Nathan Mkaya&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 17:25:50 +0300</lastBuildDate>
+    
+	<atom:link href="http://blog.nathanmkaya.co.ke/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://blog.nathanmkaya.co.ke/2019/my-first-post/</link>
+      <pubDate>Wed, 02 Jan 2019 17:25:50 +0300</pubDate>
+      
+      <guid>http://blog.nathanmkaya.co.ke/2019/my-first-post/</guid>
+      <description>Hello, World! I&amp;rsquo;ve always wanted to do this in a formal way. This being starting a blog and having a post about it. It&amp;rsquo;s not like I have much to say, but I feel it&amp;rsquo;s important to introduce yourself in a formal way.
+Hope you will be with me for the long ride as I get to experiment with every technology out there that I can understand. I promise it will be worth your time plus it will be fun.</description>
+    </item>
+    
+  </channel>
+</rss>
